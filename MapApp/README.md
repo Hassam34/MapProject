@@ -1,4 +1,4 @@
-# Map App
+# Map App (FrontEnd)
 
 This is an app in which user can add, delete, view and edit the markers on the map
 
