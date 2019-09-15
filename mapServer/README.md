@@ -36,7 +36,7 @@ This will start the API
 
 ### Note
 
-##### Now See the MapApp file for the backend (API) readme file
+##### Now open the MapApp folder and see readme file  for the reactnative app (frontend) 
 
 ## Author
 

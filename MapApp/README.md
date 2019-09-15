@@ -40,7 +40,7 @@ react-native run-android
 ```
 
 
-##### Now See the mapServer file for the backend (API) readme file
+##### Now open the mapServer folder and see readme file  for the node.js API (backend) 
 
 ## Author
 
