@@ -19,7 +19,6 @@ In order to run you must run npm install in the terminal to download the node mo
 npm install
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ### Note
 
