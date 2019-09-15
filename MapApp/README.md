@@ -39,9 +39,7 @@ const url= 'http://192.168.0.115:8080/api/cordinates/'
 
 * **Muhammad Hassam Yahya** - *Initial work* - [PurpleBooth](https://github.com/Hassam34)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
