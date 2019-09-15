@@ -1,6 +1,6 @@
-# Project Title
+# Map App
 
-One Paragraph of project description goes here
+This is an app in which user can add, delete, view and edit the markers on the map
 
 ## Getting Started
 
@@ -8,26 +8,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+make sure you have install the latest node and react-native versions.
 
-```
-Give examples
-```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+In order to run you must run npm install in the terminal to download the node modules in the folder
 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+npm install
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
