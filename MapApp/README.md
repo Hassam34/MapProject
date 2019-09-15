@@ -21,18 +21,19 @@ npm install
 
 End with an example of getting some data out of the system or using it for a little demo
 
-#### Note
+### Note
 
 As this app needs to connect with the local server on which api is runs 
 thats why it require the device ip to place in code
 
 ##### First open the Welcome.js file
  
-
+and enter your device ip instaed of 192.168.0.115
 ```
-npm install
+const url= 'http://192.168.0.115:8080/api/cordinates/'
 ```
 
+##### Now See the mapServer file for the backend (API) readme file
 
 ## Authors
 
