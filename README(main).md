@@ -16,7 +16,7 @@ There are two folders in the repository
 
 ##### MapApp is ReactNative application (Frontend)
 
-##### MapServer is Node.js API (Backendend)
+##### MapServer is Node.js API (Backend)
 
 ## Author
 

@@ -25,12 +25,20 @@ npm install
 As this app needs to connect with the local server on which api is runs 
 thats why it require the device ip to place in code
 
-##### First open the Welcome.js file
+##### Open the Welcome.js file
  
-and enter your device ip instaed of 192.168.0.115
+Enter your device ip (example: 192.168.0.115) 
+
 ```
 const url= 'http://<device IP>:8080/api/cordinates/'
 ```
+
+After that open the terminal in 'MapApp' folder and run the command 
+
+```
+react-native run-android
+```
+
 
 ##### Now See the mapServer file for the backend (API) readme file
 
