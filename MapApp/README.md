@@ -35,9 +35,9 @@ const url= 'http://192.168.0.115:8080/api/cordinates/'
 
 ##### Now See the mapServer file for the backend (API) readme file
 
-## Authors
+## Author
 
-* **Muhammad Hassam Yahya** - *Initial work* - [PurpleBooth](https://github.com/Hassam34)
+* **Muhammad Hassam Yahya** - *Initial work* - [Hassam34](https://github.com/Hassam34)
 
 
 
